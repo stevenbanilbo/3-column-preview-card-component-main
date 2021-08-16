@@ -1,0 +1,132 @@
+
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+body{
+    font-family: "Lexend Deca", sans-serif;
+    background: hsl(0, 0%, 95%);
+}
+
+.container
+{
+
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+    align-content: center;
+    padding: 20vh;
+    
+    
+}
+
+.box{   
+    padding: 50px; 
+}
+.box img{
+    margin-bottom: 25px;
+}
+.box h2{
+    margin-bottom: 20px;
+}
+.box p{
+    margin-bottom: 100px;
+}
+
+.sedan{
+background-color: hsl(31, 77%, 52%);
+border-radius: 10px 0px 0 10px;
+}
+
+.suvs{
+background-color: hsl(184, 100%, 22%);
+}
+
+.luxury{
+background-color: hsl(179, 100%, 13%);
+border-radius: 0 10px 10px 0;
+
+}
+
+h2{
+
+    font-family:"Big Shoulders Display", sans-serif;
+    font-size: 30px;
+    color: hsl(0, 0%, 95%);
+    text-transform: uppercase;
+}
+
+
+p{
+    font-family:"Lexend Deca", sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 15px;
+    line-height: 1.7;
+
+}
+
+.btn{
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 10px 20px;
+    font-family:"Lexend Deca", sans-serif;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    
+}
+
+.btn:hover{
+
+background-color: transparent;
+color: white;
+
+}
+
+
+
+/* Mobile */
+@media(max-width: 375px)
+{
+
+.container{
+    display: flex;
+    flex-direction: column;
+    padding: 5vh;
+    margin-top: 10vh;
+}
+
+.box p{
+
+    margin-bottom: 30px;
+
+}
+
+.sedan{
+    border-radius: 10px 10px 0 0;
+    }
+
+
+.luxury{      
+    border-radius: 0 0px 10px 10px;
+    }
+
+}
+
+
+
+
+/* Label */
+
+.attribution {
+    font-size: 11px; text-align: center;
+    }
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+    }
