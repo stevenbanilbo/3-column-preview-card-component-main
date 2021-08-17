@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/stevenbanilbo/3-column-preview-card-component-main.git)
-- Live Site URL: [Add live site URL here](https://stevenbanilbo.github.io)
+- Live Site URL: [Add live site URL here](https://stevenbanilbo.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
