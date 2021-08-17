@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/stevendipity02/3-column-preview-card-component-main.git)
-- Live Site URL: [Add live site URL here](https://stevenbanilbo.github.io)
+- Solution URL: (https://github.com/stevenbanilbo/3-column-preview-card-component-main.git)
+- Live Site URL: [Add live site URL here](https://stevenbanilbo.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
@@ -60,4 +60,4 @@ Flexbox and proper sizing adjustments
 ## Author
 
 - Website - [Steven Banilbo](https://stevenbanilbo.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/stevendipity02)
+
