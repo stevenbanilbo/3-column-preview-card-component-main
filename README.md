@@ -60,4 +60,4 @@ Flexbox and proper sizing adjustments
 ## Author
 
 - Website - [Steven Banilbo](https://stevenbanilbo.github.io)
-- Frontend Mentor - @stevendipity02 (https://www.frontendmentor.io/profile/stevendipity02)
+
